@@ -1,0 +1,8 @@
+{
+  "name": "Generador Post Hausbec",
+  "description": "Herramienta editorial interna de Hausbec para generar instrucciones semanales del Superprompt Maestro y desarrollar contenidos Passivhaus con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
